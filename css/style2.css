@@ -16,3 +16,7 @@ table {
 table, td, tr {
   border: 4px black
 }
+
+a {
+  color: white;
+}
